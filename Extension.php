@@ -48,7 +48,7 @@ class Extension extends \Bolt\BaseExtension
     {
       return "<script type='text/javascript'>
           var discourseUrl = '" . $this->config['discourseurl'] . "';
-                discourseEmbedUrl = window.location();
+                discourseEmbedUrl = window.location.href();
 
         (function() {
               var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
