@@ -1,7 +1,7 @@
 Discourse Embedded Comments for Bolt
 ====================================
 
-This is a bolt extension to use self hosted comments with your installation of disourse.
+This is a bolt extension to use self hosted comments with your installation of discourse.
 
 Still under heavy development!
 
